@@ -1,0 +1,1 @@
+always make sure you're in the right branch by using "git branch" command
